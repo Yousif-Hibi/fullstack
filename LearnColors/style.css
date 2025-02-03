@@ -1,0 +1,23 @@
+.Color-title{
+  font-style: italic;
+}
+.divRed{
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  background-color: red;
+}
+.divBlue{
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  background-color: Blue;
+}
+.divGreen{
+
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    background-color: Green;
+
+}

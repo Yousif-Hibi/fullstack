@@ -1,0 +1,26 @@
+body{
+  background-color:  Black;
+  color: white;
+
+}
+.motivationalSunSet{
+text-align: center;
+width: 50%;
+margin-left: 25%;
+font-family: "Libre Baskerville", serif;
+font-weight: 400;
+font-style: normal;
+}
+img{
+  width: 100%;
+
+  border: 5px;
+   border-style: solid;
+  border-color: white;
+}
+.libre-baskerville-regular {
+  font-style: "Libre Baskerville";
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}-

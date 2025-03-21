@@ -27,11 +27,7 @@ Ensure you have the following installed:
 - [PostgreSQL](https://www.postgresql.org/)
 
 ### Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/secrets-app.git
-   cd secrets-app
-   ```
+1. Clone the repository.
 2. Install dependencies:
    ```sh
    npm install
